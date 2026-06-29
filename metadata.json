@@ -1,0 +1,6 @@
+{
+  "name": "UYIR KAAVALAN",
+  "description": "AI-powered elderly safety and health monitoring app integrated with wearable ESP32 microcontroller sensors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
